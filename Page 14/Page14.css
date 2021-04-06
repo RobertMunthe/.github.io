@@ -1,0 +1,51 @@
+h1{
+    text-align: center;
+    color:rgb(240, 192, 71)
+}
+@media (min-width:600px) {
+    nav {
+      float: left;
+      width: 25%;
+    }
+    section {
+      margin-left: 25%;
+    }
+  }
+  @media (max-width:599px) {
+    nav li {
+      display: inline;
+    }
+  }
+div{
+    text-align: justify;
+    border: solid green;
+}
+nav {
+  float: left;
+  width: 25%;
+  border: solid pink;
+}
+section {
+  margin-left: 25%;
+  border: solid yellow;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 5px;
+  margin-top: 150px;
+}
+.next {
+  background-color:rgb(240, 192, 71);
+  color:black;
+  margin-left:  370px;
+}
+.previous {
+  background-color:rgb(240, 192, 71) ;
+  color: black;
+}
+  footer{
+  text-align: center;
+  display: block;
+}

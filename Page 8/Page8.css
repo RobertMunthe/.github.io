@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    color:rgb(240, 192, 71)
+}
+.container {
+    position: relative;
+    border: solid palevioletred;
+    border-style: solid;
+  }
+  nav {
+    position: absolute;
+    left: 0px;
+    width: 200px;
+  }
+  nav li {
+    top:0%;
+  }
+  section {
+    margin-left: 200px;
+    border: solid yellow;
+  }
+  footer {
+    text-align:center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 70px;
+    background-color: white;
+    width: 100%;
+    background-color: cyan;
+    border: solid blue
+  }
+  body {
+    margin-bottom: 120px;
+  }
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin-top: 150px;
+  }
+  .next {
+    background-color:rgb(240, 192, 71);
+    color:black;
+    margin-left:  370px;;
+  }
+  .previous {
+    background-color:rgb(240, 192, 71) ;
+    color: black;
+}
+   .halaman {
+    text-align: center;
+    display: block;
+}
+

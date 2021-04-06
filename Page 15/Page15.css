@@ -1,0 +1,48 @@
+h1{
+    text-align: center;
+    color:rgb(240, 192, 71)
+}
+.box {
+    float: left;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border: solid green;
+  }
+  .after-box {
+    clear: left;
+    border: solid yellow;
+  }
+  .box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    text-align: center;
+    border: solid green;
+  }
+div{
+  text-align: center;
+ border: solid yellow;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin-top: 150px;
+  }
+  .next {
+    background-color:rgb(240, 192, 71);
+    color:black;
+    margin-left:  370px;
+  }
+  .previous {
+    background-color:rgb(240, 192, 71) ;
+    color: black;
+  }
+    footer{
+    text-align: center;
+    display: block;
+  }

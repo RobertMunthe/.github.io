@@ -1,0 +1,37 @@
+h1{
+    text-align: center;
+    color:rgb(240, 192, 71)
+}
+img {
+    float: right;
+}
+.clearfix {
+    overflow: auto;
+}
+div{
+    text-align: justify;
+    border: solid;
+    width: 800px;
+    margin: 0 auto; 
+    text-align: justify;
+}
+a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin-top: 150px;
+  }
+  .next {
+    background-color:rgb(240, 192, 71);
+    color:black;
+    margin-left:  370px;
+  }
+  .previous {
+    background-color:rgb(240, 192, 71) ;
+    color: black;
+}
+    footer{
+    text-align: center;
+    display: block;
+}

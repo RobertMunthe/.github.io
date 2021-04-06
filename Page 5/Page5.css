@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color:rgb(240, 192, 71)
+}
+div{
+    max-width: 600px;
+    margin: 0 auto; 
+    text-align: justify;
+    color:black
+}
+.simple {
+    width: 500px;
+    margin: 20px auto;
+    border: solid;
+  }
+  
+.fancy {
+    width: 500px;
+    margin: 20px auto;
+    padding: 50px;
+    border-width: 10px;
+    border:solid;
+  }
+  a {
+    text-decoration: none;
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 5px;
+    margin-top: 150px;
+  }
+  .next {
+    background-color:rgb(240, 192, 71);
+    color:black;
+    margin-left:  370px;;
+  }
+  .previous {
+    background-color:rgb(240, 192, 71) ;
+    color: black;
+}
+    footer{
+    text-align: center;
+    display: block;
+}
